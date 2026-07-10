@@ -108,7 +108,7 @@ To add a new target, edit `backend/lib/grail-db.js` following the existing entry
 
 - Renaiss: https://www.renaiss.xyz
 - Renaiss Marketplace API: `https://api.renaiss.xyz/v0/marketplace`
-- Live demo: `<fill in after deploy>`
+- Live demo: https://youtu.be/QT0b-Oj8tH0
 - Submission repo:https://github.com/lenmu168/renaiss-rwa-sniper
 
 ### 📄 License
@@ -216,7 +216,7 @@ cd frontend && bun run dev      # Vite，端口 5173
 
 - Renaiss 官网：https://www.renaiss.xyz
 - Renaiss Marketplace API：`https://api.renaiss.xyz/v0/marketplace`
-- 在线 Demo：`<部署后填入>`
+- 在线 Demo：https://youtu.be/QT0b-Oj8tH0
 - 提交仓库：https://github.com/lenmu168/renaiss-rwa-sniper
 
 ### 📄 License
